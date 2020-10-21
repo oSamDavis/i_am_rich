@@ -15,7 +15,7 @@ This project is my version of the famous, 'I Am Rich' iOS application by Armin H
 - [x] Added images as Assets and was able to use both the Image widget and the AssetImage class
 
 ## Widget Flowchart Diagram
-<img src=https:https://imgur.com/ln3FouG.gif width=900>
+<img src=https://imgur.com/DfbOkPf.jpeg  width=500>
 
 ## App on Android Emulator
-<img src=https://imgur.com/sNwxLUx.gif width=900>
+<img src=https://imgur.com/sNwxLUx.gif width=500>
